@@ -1,3 +1,3 @@
 # Clothing-Ecommerce-
-Clothing-Ecommerce using django
+Clothing-Ecommerce site using django
 
